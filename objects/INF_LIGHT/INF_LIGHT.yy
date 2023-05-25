@@ -2,7 +2,9 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "INF_LIGHT",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -10,8 +12,8 @@
     "path": "folders/Objetos/Units/INF_LIGHT.yy",
   },
   "parentObjectId": {
-    "name": "oSelectable",
-    "path": "objects/oSelectable/oSelectable.yy",
+    "name": "Unit_Manager",
+    "path": "objects/Unit_Manager/Unit_Manager.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -27,7 +29,7 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
     "name": "INF_LIGHT_IDLE",
     "path": "sprites/INF_LIGHT_IDLE/INF_LIGHT_IDLE.yy",

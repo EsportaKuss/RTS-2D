@@ -10,8 +10,8 @@
     "path": "folders/Objetos/Nature.yy",
   },
   "parentObjectId": {
-    "name": "oSelectable",
-    "path": "objects/oSelectable/oSelectable.yy",
+    "name": "Nature",
+    "path": "objects/Nature/Nature.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
